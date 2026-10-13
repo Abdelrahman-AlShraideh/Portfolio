@@ -40,7 +40,7 @@ ex00/
 ## How to Run
 
 1. Clone or download the repository.
-2. Navigate to the `ex00` directory.
+2. Navigate to the `Portfolio` directory.
 3. Make sure the profile image is placed inside the `assets` directory.
 4. Open `index.html` in a web browser.
 
