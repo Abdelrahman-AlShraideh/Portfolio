@@ -28,7 +28,7 @@ The website uses a futuristic cybersecurity-inspired design with neon cyan and p
 ## Project Structure
 
 ```text
-ex00/
+Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
